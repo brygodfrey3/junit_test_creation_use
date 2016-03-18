@@ -1,0 +1,9 @@
+Initial Upload
+
+3/18/16 1:13 AM
+
+This program demonstrates how to import and initialize junit testing. A few methods are included that run int he junit testing, all of which come back as working.
+
+I would like to add additional methods that fail so we can see how junit handles failure.
+
+A couple of .jar files where used, both of which are contained in the repository.
